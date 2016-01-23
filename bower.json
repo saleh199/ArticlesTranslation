@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.6",
+    "bootstrap": "~3.3.4",
     "bootstrap-rtl": "~3.3.4"
   }
 }
