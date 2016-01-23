@@ -8,5 +8,8 @@
       "name": "Saleh Saeed",
       "email": "saleh.saiid@gmail.com"
     }
-  ]
+  ],
+  "require": {
+    "altorouter/altorouter": "^1.1"
+  }
 }
