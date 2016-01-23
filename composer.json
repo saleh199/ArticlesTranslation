@@ -1,0 +1,12 @@
+{
+  "name": "saleh199/translation",
+  "description": "Tool to manage articles translation",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Saleh Saeed",
+      "email": "saleh.saiid@gmail.com"
+    }
+  ]
+}
