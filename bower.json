@@ -18,7 +18,6 @@
   ],
   "dependencies": {
     "bootstrap": "~3.3.6",
-    "angular": "angularjs#~1.4.9",
     "bootstrap-rtl": "~3.3.4"
   }
 }
