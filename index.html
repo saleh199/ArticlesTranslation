@@ -16,8 +16,18 @@
     <![endif]-->
 
     <style type="text/css">
+        body{
+            padding-top: 10px;
+        }
         .container {
-            width: 970px;
+            width: 1280px;
+        }
+
+        .result-view .inner, .original-view .inner{
+            border: 1px solid #cccccc;
+            border-radius: 2px;
+            min-height: 500px;
+            padding: 10px;
         }
     </style>
 </head>
@@ -46,6 +56,21 @@
                 </form>
             </div>
         </div>
+        <hr />
+        <div class="row">
+            <div class="col-xs-6 result-view" id="arabic-text">
+                <div class="inner">
+                    fgf
+                </div>
+            </div>
+            <div class="col-xs-6 original-view" id="english-text">
+                <div class="inner">
+                    ss
+                </div>
+            </div>
+        </div>
+
+        <hr />
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="assets/bower_components/jquery/dist/jquery.min.js"></script>
